@@ -1,0 +1,10 @@
+Predicting the time needed for economy recovery based on how long COVID-19 lasts.
+
+
+decide on stocks
+create class for recession
+    is going to contain all the relevant stock data in that recession
+create instances of the class that represents past recessions
+
+create many models leaving one recession out and find the optimal model
+predict coronavirus recession
